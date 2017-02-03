@@ -1,0 +1,1 @@
+curl -u user:6cb4b25a-d40a-4b1d-a0d6-c65025a94fff -i -X POST -H "Content-Type:application/json" -d "{\"firstName\": \"tiutu\", \"lastName\": \"tutu\", \"twitter\": \"tutu\", \"bio\": \"bloblo\" }"  http://localhost:8080/person

@@ -1,0 +1,1 @@
+INSERT INTO SPEAKER(ID, FIRST_NAME, LAST_NAME, TWITTER, BIO) values (0, 'Toto', 'toto', 'toto', 'blabla');
